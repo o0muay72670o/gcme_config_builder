@@ -1,0 +1,16 @@
+.venv/
+.vs/
+obj/
+*.pyproj.user
+*.suo
+__pycache__/
+*.py[cod]
+.test_tmp/
+.env
+input/*
+!input/.gitkeep
+jobs/
+output/
+*.xlsx
+*.xls
+*.pdf
